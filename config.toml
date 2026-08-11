@@ -1,6 +1,6 @@
 base_url = "https://6260.tekelili.dev"
 
-title = "6260 Notes"
+title = "6260 notes"
 
 theme = "radion"
 
@@ -19,7 +19,7 @@ dark_theme = "material-theme-palenight"
 light_theme = "everforest-light"
 
 [extra]
-radion_title = "6260 Notes"
+radion_title = "6260 Notes: Happy Dafny"
 theme = "toggle"
 codeblock = true	
 latex = true
