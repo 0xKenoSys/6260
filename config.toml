@@ -1,0 +1,32 @@
+theme = "radion"
+
+base_url = "https://6260.tekelili.dev"
+
+
+# The URL the site will be built for
+#base_url = "https://example.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+# Put all your custom variables here
+[extra]
+author = "Micah Kepe"
+github = "https://github.com/micahkepe/radion"
+fediverse.creator = "@username@my.instance.example.com"
+fediverse.rel_me = "https://my.instance.example.com/@username"
+mastodon = "https://my.instance.example.com/@username"
+radion_menu = [
+    {url = "$BASE_URL/", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+]
+radion_title = "My Example Site"
