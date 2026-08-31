@@ -1,5 +1,5 @@
 +++
-title = "case split,账目表,展开一次一层,subset_widen"
+title = "6260 notes: case split,账目表,展开一次一层,subset_widen"
 date = 2026-08-31
 categories = ["6260"]
 tags = ["Dafny", "lset", "subset", "subset_member", "subset_trans", "subset_widen", "subset_refl"]
