@@ -1,5 +1,5 @@
 +++
-title = "assert,非线性算术"
+title = "6260 notes: assert,非线性算术"
 date = 2026-08-31
 categories = ["6260"]
 tags = ["Dafny", "assert", "solve_quadratic", "solve_poly", "xltdiv"]

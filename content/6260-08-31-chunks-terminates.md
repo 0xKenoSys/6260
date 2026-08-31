@@ -1,5 +1,5 @@
 +++
-title = "lemma辅助终止,decreases,length_drop,chunks"
+title = "6260 notes: lemma辅助终止,decreases,length_drop,chunks"
 date = 2026-08-31
 categories = ["6260"]
 tags = ["Dafny", "chunks", "take", "drop", "length_drop", "decreases"]

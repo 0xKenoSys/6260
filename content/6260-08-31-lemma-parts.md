@@ -1,5 +1,5 @@
 +++
-title = "lemma四部件,requires,ensures,全称变量"
+title = "6260 notes: lemma四部件,requires,ensures,全称变量"
 date = 2026-08-31
 categories = ["6260"]
 tags = ["Dafny", "lemma", "requires", "ensures", "simple"]
